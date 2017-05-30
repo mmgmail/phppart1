@@ -1,0 +1,3 @@
+<?php
+    $form = template('login');
+?>
